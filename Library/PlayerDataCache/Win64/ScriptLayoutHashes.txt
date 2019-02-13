@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/Chris/Documents/Unity/Terrain/Build/Build1.0/Terrain.exe
+C:/Users/Chris/Documents/Unity/Terrain/Terrain/Build/Build2.0/Terrain.exe
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
@@ -142,6 +142,7 @@ d22c788799ee45d8676254eccf20e8b8 UnityEngine.Analytics.dll:UnityEngine.Analytics
 8b2e24dd05c0c36bfb534c6e39168b21 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.ParticleSystemDestroyer
 81c522dff5ed6743b66c189a8b097a2f Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.SimpleMouseRotator
 8ca847de20e0d3de0de4012e61a820a6 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Vehicles.Aeroplane.AeroplaneAudio
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.CustomTerrain
 d75dc834c5dec688db75a55a1724c90f UnityEngine.HoloLens.dll:UnityEngine.Audio.AudioSpatializerMicrosoft
 486cd95c82d8305219c352c06b776e1f UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInput
 e1ea12ca952c81d81a9a21fdf34446ed UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
@@ -162,6 +163,7 @@ fa1c317e7807ba3c9b05056693f277ff Assembly-CSharp-firstpass.dll:UnityStandardAsse
 f16835701e71dd5d6fb1fed4b7aff1d8 Unity.TextMeshPro.dll:TMPro.TMP_Asset
 0e3cf281ff36c7bdb2ab229f3e8aeee7 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Cameras.LookatTarget
 d947b95c171314b81b313a2f4ffd0411 Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.ButtonHandler
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.CustomTerrainEditor
 509b006c3f9ac97ba6e2106f8e9b0b10 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Characters.FirstPerson.HeadBob
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp-firstpass.dll:UnityStandardAssets.Characters.ThirdPerson.ThirdPersonUserControl
 a455c7a94d636e997cf13415fea7bbb1 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMoveAndRotate
